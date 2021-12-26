@@ -2,7 +2,7 @@
 
 - 🔭 Sou autônomo, trabalho como desenvolvedor PHP Laravel.
 - 🌱 Atualmente estou concentrando meus estudos em React.
-- 👯 Procuro colaborar com códigos-fonte e resumos dos cursos que realizo pela Internet.
+- 👯 Procuro colaborar no GitHub com códigos-fonte e resumos dos cursos que realizo pela Internet.
 - 🤔 Estou em busca de oportunidades de trabalho..
 - 📫 Entre em contato comigo pelo e-mail robertopinheiro7843@gmail.com
 - 😄 Beto
