@@ -4,7 +4,7 @@
 - 🌱 No momento, estou focando os estudos em React.
 - 👯 Colaboro no GitHub, compartilhando códigos-fonte e resumos dos cursos que realizo pela Internet.
 - 🤔 Estou em busca de oportunidades de trabalho..
-- 📫 Entre em contato comigo pelo e-mail robertopinheiro7843@gmail.com
+- 📫 Contacte-me pelo e-mail robertopinheiro7843@gmail.com
 - 😄 Beto
 
 <div align="center">
