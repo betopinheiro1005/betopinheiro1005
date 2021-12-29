@@ -1,8 +1,8 @@
 ### Olá, me chamo Roberto Pinheiro! Seja bem-vindo a minha página no GitHub! 👋
 
 - 🔭 Sou autônomo, trabalho como desenvolvedor PHP Laravel.
-- 🌱 No momento, estou focando os estudos em React.
-- 👯 Colaboro no GitHub, compartilhando códigos-fonte e resumos dos cursos que realizo pela Internet.
+- 🌱 No momento, estou com o foco nos estudos de React.
+- 👯 Colaboro no GitHub, compartilhando códigos-fonte e resumos dos cursos que realizo pela Internet. 
 - 🤔 Estou em busca de oportunidades de trabalho..
 - 📫 Contacte-me pelo e-mail robertopinheiro7843@gmail.com
 - 😄 Beto
