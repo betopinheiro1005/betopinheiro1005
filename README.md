@@ -8,7 +8,7 @@
 - 😄 Beto
 
 <div>
-  <p>(*) O resumo de cada curso fica dentro de uma pasta "resumo". Os *códigos-fontes e resumos facilitam muito os estudos de quem est[a realizadndo esses cursos. Os códigos-fonte evitam a exaustiva digitaçãp dos mesmos, permitindo se concentrar melhor nas aulas. Os resumos trazem anotações importantes de cada uma das aulas.</p> 
+  <p>**(*)** O resumo de cada curso fica dentro de uma pasta "resumo". Os *códigos-fontes e resumos facilitam muito os estudos de quem est[a realizadndo esses cursos. Os códigos-fonte evitam a exaustiva digitaçãp dos mesmos, permitindo se concentrar melhor nas aulas. Os resumos trazem anotações importantes de cada uma das aulas.</p> 
 </div>
 
 <div align="center">
