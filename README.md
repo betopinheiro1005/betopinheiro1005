@@ -1,5 +1,4 @@
-### Olá, me chamo Roberto Pinheiro!
-Seja bem-vindo a minha página no GitHub! 👋
+### Olá, me chamo Roberto Pinheiro! Seja bem-vindo a minha página no GitHub! 👋
 
 - 🔭 Sou autônomo, trabalho como desenvolvedor PHP Laravel.
 - 🌱 No momento, estou com o foco nos estudos de React.
