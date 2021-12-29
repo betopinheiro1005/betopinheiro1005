@@ -7,7 +7,7 @@
 - 📫 Contacte-me pelo e-mail robertopinheiro7843@gmail.com
 - 😄 Beto
 
-**(*)** O resumo de cada curso fica dentro de uma pasta chamada **resumo**. Os *códigos-fontes e resumos facilitam muito os estudos de quem est[a realizadndo esses cursos. Os códigos-fonte evitam a exaustiva digitaçãp dos mesmos, permitindo se concentrar melhor nas aulas. Os resumos trazem anotações importantes de cada uma das aulas.
+**(*)** O resumo de cada curso fica dentro de uma pasta chamada **resumo**. Os *códigos-fontes e resumos facilitam muito os estudos de quem está realizando esses cursos. Os códigos-fonte evitam a exaustiva digitaçãp dos mesmos, permitindo se concentrar melhor nas aulas. Os resumos trazem anotações importantes de cada uma das aulas.
 
 <div align="center">
   <a href="https://github.com/betopinheiro1005">
