@@ -1,5 +1,4 @@
-### Hi there
-### I'm Roberto Pinheiro! 👋
+### Hi there! I'm Roberto Pinheiro! 👋
 
 - 🔭 Sou desenvolvedor PHP Laravel autônomo.
 - 🌱 No momento, estou com o foco nos estudos de React.
