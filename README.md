@@ -35,7 +35,7 @@
   
   ### Projects
   
-  #### >[My projects](https://betopinheiro1005.github.io/)
+  >[*My projects*](https://betopinheiro1005.github.io/)
   
   ## 
   
