@@ -33,7 +33,7 @@
   
   ##  
   
-  ### [My projects](https://betopinheiro1005.github.io/)
+  <a href="https://betopinheiro1005.github.io/" target="_blank"><h3>My Projects</h3></a>
   
   ## 
   
