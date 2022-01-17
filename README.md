@@ -33,8 +33,6 @@
   
   ##  
   
-  ### Projects
-  
   ### [My projects](https://betopinheiro1005.github.io/)
   
   ## 
