@@ -2,12 +2,10 @@
 
 - 🔭 Sou desenvolvedor PHP Laravel autônomo.
 - 🌱 No momento, estou atualizando os estudos e conhecimentos em React e Git/GitHub.
-- 👯 Colaboro no GitHub, compartilhando **códigos-fonte e resumos (*)** dos cursos que realizo pela Internet. 
+- 👯 Colaboro no GitHub, compartilhando códigos-fonte e resumos dos cursos que realizo pela Internet. 
 - 🤔 Estou em busca de uma oportunidade de trabalho
 - 📫 Contacte-me pelo e-mail robertopinheiro7843@gmail.com
 - 😄 Beto
-
-**(*)** O resumo de cada curso fica dentro de uma pasta chamada **resumo**. Os códigos-fontes e resumos facilitam muito os estudos de quem está realizando esses cursos. Os códigos-fonte evitam a tarefa de digitação dos mesmos, permitindo se concentrar melhor nas aulas. Nos resumos, além de anotações importantes, há também o código parcial de cada aula do curso.
 
 <div align="center">
   <a href="https://github.com/betopinheiro1005">
@@ -32,8 +30,10 @@
 </div>
   
   ##  
+
+  ### My Projects
   
-  ### [My Projects](https://betopinheiro1005.github.io/)  
+  ### [Access](https://betopinheiro1005.github.io/)  
   
   ## 
   
