@@ -35,7 +35,7 @@
   
   #### Conheça alguns aplicativos que criei:
   
-  ### [Developed Projects](https://betopinheiro1005.github.io/)  
+  ### [Projetos](https://betopinheiro1005.github.io/)  
   
   ## 
   
