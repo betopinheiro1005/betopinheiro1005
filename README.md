@@ -33,8 +33,6 @@
 
   ### My Projects
   
-  #### Conheça alguns aplicativos que criei:
-  
   ### [Projetos desenvolvidos](https://betopinheiro1005.github.io/)  
   
   ## 
