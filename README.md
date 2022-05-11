@@ -1,7 +1,7 @@
 ## Roberto Pinheiro 👋
 
 - 🔭 Sou desenvolvedor PHP Laravel autônomo.
-- 🌱 No momento, atualizando conhecimentos: assistindo vídeos de Escuela Drupal para aprender a usar o Drupal.
+- 🌱 No momento, atualizando conhecimentos: Drupal 9.
 - 👯 Colaboro no GitHub, compartilhando códigos-fonte e resumos dos cursos que realizo pela Internet. 
 - 🤔 Estou em busca de uma oportunidade de trabalho
 - 📫 Contacte-me pelo e-mail robertopinheiro7843@gmail.com
