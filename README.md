@@ -1,7 +1,7 @@
 ## Roberto Pinheiro 👋
 
 - 🔭 Sou desenvolvedor PHP Laravel autônomo.
-- 🌱 No momento, atualizando conhecimentos: Testes de API's Rest.
+- 🌱 No momento, atualizando conhecimentos: API's Rest - Criando e consumindo API's.
 - 👯 Colaboro no GitHub, compartilhando códigos-fonte e resumos dos cursos que realizo pela Internet. 
 - 🤔 Em busca de uma oportunidade de trabalho
 - 📫 Contacte-me pelo e-mail robertopinheiro7843@gmail.com
